@@ -1,4 +1,3 @@
 # CS50Web
 CS50 web development course
-
-Projetos para o curso de desenvolvimento web da Universidade de Harvard
+Front-end para o sistema de buscas do Google (texto, imagem e busca avançada).
